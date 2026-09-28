@@ -1,0 +1,35 @@
+{
+  "checked_date": "2026-09-28",
+  "upstreams": [
+    {
+      "repo": "yihui-dev/awesome-opus5-5-videos",
+      "commit": "1c092195b7bda246455827bc0be820be6d6a7b97",
+      "path": "data/videos.json",
+      "blob_sha": "e3d77bf591b8678fb7c1c29de81d447aacbb451d",
+      "records": 282,
+      "source_url": "https://github.com/yihui-dev/awesome-opus5-5-videos/blob/1c092195b7bda246455827bc0be820be6d6a7b97/data/videos.json"
+    },
+    {
+      "repo": "joeseesun/opus-video-prompts",
+      "commit": "7977c807781d4ba7c235247b8899a72575a30d00",
+      "path": "cases.json",
+      "blob_sha": "8602fa36c19e9af694950dd36d8385a87ba2bdcf",
+      "records": 54,
+      "source_url": "https://github.com/joeseesun/opus-video-prompts/blob/7977c807781d4ba7c235247b8899a72575a30d00/cases.json"
+    },
+    {
+      "repo": "athemeroy/awesome-opus-5-5-videos",
+      "commit": "f0728e6fd1e5ec496815c1c7ba115bc70e3a31f9",
+      "path": "data/cases.csv",
+      "blob_sha": "41c7fe9a65868a61369541a94908fd86a7e052af",
+      "records": 168,
+      "source_url": "https://github.com/athemeroy/awesome-opus-5-5-videos/blob/f0728e6fd1e5ec496815c1c7ba115bc70e3a31f9/data/cases.csv"
+    }
+  ],
+  "manual_sources": [
+    "https://x.com/anabology/status/2103534482930491441",
+    "https://x.com/donaldjewkes/status/2102801274173587569",
+    "https://x.com/donaldjewkes/status/2102801469976248500",
+    "https://x.com/notjazii/status/2103884167104831573"
+  ]
+}
